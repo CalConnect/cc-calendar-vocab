@@ -20,9 +20,9 @@ operations, scheduling, consensus building, and temporal relationships.
 
 The document is published as the following:
 
-* CalConnect CC 56000
-* ISO ...
-* IETF ...
+* CalConnect CC 51000
+* ISO 51000
+* IETF draft-cc-calendar-vocab
 
 
 == Fetching the document
