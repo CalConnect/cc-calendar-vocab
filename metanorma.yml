@@ -1,0 +1,10 @@
+---
+metanorma:
+  source:
+    files:
+      - sources/cc-51000.adoc
+      # - sources/draft-douglass-itip-participants.adoc
+
+  collection:
+    name: Calendaring and scheduling -- Vocabulary
+    organization: CalConnect

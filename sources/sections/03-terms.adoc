@@ -1,0 +1,469 @@
+== Terms and definitions
+
+=== Core definitions
+
+==== event
+time-bound activity or occurrence in a calendar system
+
+NOTE: Forms the basic unit of calendar entries, with defined start and end times.
+
+[example]
+Business meeting, doctor's appointment, or project deadline.
+
+==== calendaring
+systematic management of time-bound activities using digital or physical systems
+
+NOTE: Encompasses creation, modification, and organization of events across time periods.
+
+[example]
+Using software to manage company meetings, personal appointments, and resource bookings.
+
+==== scheduling
+process of assigning specific times to events while managing constraints and resources
+
+NOTE: Involves coordinating participants, locations, and other requirements.
+
+[example]
+Arranging team meetings considering member availability and room capacity.
+
+==== schedule
+organized collection of events with assigned times
+
+NOTE: Represents a complete view of planned activities for a person, group, or resource.
+
+[example]
+Weekly timetable showing all department meetings and deadlines.
+
+=== Fundamental concepts
+
+==== time block management
+practice of organizing and managing time-based events and tasks using a calendar system
+
+NOTE: Includes creating, modifying, and deleting calendar entries, as well as managing their properties and relationships.
+
+[example]
+Arranging meetings, blocking personal time, and scheduling recurring events.
+
+==== event timeline
+organized sequence of events or tasks with their designated times
+
+NOTE: Can represent events for an individual, group, or resource.
+
+[example]
+A conference schedule showing all sessions and their times.
+
+==== time coordination
+process of arranging events involving multiple participants
+
+NOTE: Includes finding suitable times, managing responses, and coordinating resources.
+
+[example]
+Arranging a board meeting that accommodates all directors' schedules.
+
+=== Time allocation concepts
+
+==== free time window
+time period available for scheduling new events
+
+NOTE: Represents when participants or resources can be scheduled.
+
+[example]
+A two-hour block when all team members have no other commitments.
+
+==== blocked time
+time period unavailable for scheduling new events
+
+NOTE: Indicates periods already committed or intentionally reserved.
+
+[example]
+Time blocked for focused work or existing meetings.
+
+==== tentative time block
+time period provisionally reserved pending confirmation
+
+NOTE: Indicates potential availability that requires final commitment.
+
+[example]
+A possible meeting time awaiting participant confirmation.
+
+==== schedule confirmation
+definite commitment to an event time
+
+NOTE: Represents final agreement to attend or participate.
+
+[example]
+All participants confirming attendance for a proposed meeting time.
+
+==== event cancellation
+withdrawal of a scheduled event
+
+NOTE: Includes notification to all participants and resource releases.
+
+[example]
+Cancelling a meeting and freeing the reserved conference room.
+
+==== scheduling delegation
+transfer of calendar management rights to another person
+
+NOTE: Allows others to manage events on behalf of someone.
+
+[example]
+An assistant gaining rights to manage their manager's calendar.
+
+=== Event patterns
+
+==== event duration
+scheduled length of a calendar entry
+
+NOTE: Defines how long an event will occupy participants' time.
+
+[example]
+A one-hour team meeting.
+
+==== event spacing
+time between scheduled events
+
+NOTE: Defines intentional gaps between calendar entries.
+
+[example]
+Fifteen-minute breaks between consecutive meetings.
+
+==== schedule conflict
+overlap between two or more events
+
+NOTE: Indicates competing demands for the same time period.
+
+[example]
+Two meetings scheduled for the same participant at the same time.
+
+==== buffer time
+planned gap between events
+
+NOTE: Intentional spacing to allow for transitions or preparation.
+
+[example]
+Ten-minute gap scheduled between meetings in different locations.
+
+==== preparation window
+scheduled time before an event for setup or preparation
+
+NOTE: Ensures readiness for the main event.
+
+[example]
+Thirty minutes blocked before a presentation for equipment setup.
+
+==== transition period
+scheduled time after an event for wrap-up or travel
+
+NOTE: Allows for post-event activities or movement to next location.
+
+[example]
+Fifteen minutes scheduled after a meeting for travel to another building.
+
+
+=== Information tracking
+
+==== schedule update
+modification to an existing calendar entry
+
+NOTE: Records changes to event details while maintaining event history.
+
+[example]
+Changing a meeting's location and notifying all participants.
+
+==== schedule version
+numbered iteration of a calendar entry
+
+NOTE: Tracks the evolution of event details over time.
+
+[example]
+Version 3 of a conference schedule reflecting updated speaker times.
+
+==== booking attempt
+single iteration in finding suitable event time
+
+NOTE: Represents one try at coordinating schedules.
+
+[example]
+Third attempt to find meeting time that works for all executives.
+
+==== calendar snapshot
+point-in-time view of scheduled events
+
+NOTE: Captures all calendar entries at a specific moment.
+
+[example]
+Export of next month's schedule for offline reference.
+
+==== event status
+current state of a calendar entry
+
+NOTE: Indicates whether an event is confirmed, tentative, or cancelled.
+
+[example]
+Meeting marked as "confirmed" after all participants accept.
+
+==== event priority
+scheduling importance level
+
+NOTE: Helps resolve conflicts between competing events.
+
+[example]
+Client presentation marked as high priority over internal meetings.
+
+==== event type
+classification of calendar entry
+
+NOTE: Groups similar events for organization and filtering.
+
+[example]
+Events labeled as "Training," "Client Meeting," or "Personal Time."
+
+==== visibility level
+degree of calendar entry detail shown to others
+
+NOTE: Controls what information others can see about an event.
+
+[example]
+Private appointment showing only as "Busy" to colleagues.
+
+=== Access management
+
+==== viewing permission
+right to see calendar information
+
+NOTE: Determines who can view event details.
+
+[example]
+Team members able to see project meeting details but not modify them.
+
+==== scheduling permission
+right to create or modify calendar entries
+
+NOTE: Controls who can manage events on a calendar.
+
+[example]
+Assistant authorized to schedule meetings on behalf of their manager.
+
+==== calendar administration
+right to manage calendar system settings
+
+NOTE: Highest level of calendar system control.
+
+[example]
+IT staff configuring organization-wide calendar policies.
+
+==== schedule restriction
+limit on calendar operations
+
+NOTE: Prevents unauthorized calendar actions.
+
+[example]
+Junior staff prevented from viewing executive meeting details.
+
+==== calendar access scope
+range of viewable or manageable calendars
+
+NOTE: Defines which calendars a user can interact with.
+
+[example]
+Department head having access to all team members' schedules.
+
+=== Distribution methods
+
+==== schedule publication
+release of calendar information to designated audience
+
+NOTE: Makes events visible to specified users.
+
+[example]
+Company holiday schedule made available to all employees.
+
+==== draft schedule
+preliminary calendar information pending finalization
+
+NOTE: Temporary event details subject to change.
+
+[example]
+Initial conference agenda shared with speakers for feedback.
+
+==== schedule archive
+historical calendar records
+
+NOTE: Preserved past calendar information.
+
+[example]
+Previous years' meeting schedules stored for reference.
+
+==== retention period
+required calendar record keeping timeframe
+
+NOTE: Duration calendar information must be preserved.
+
+[example]
+Meeting records kept for three years per policy.
+
+==== calendar subscription
+automated calendar information delivery
+
+NOTE: Continuous access to updated calendar information.
+
+[example]
+Team receiving automatic updates to project timeline.
+
+==== schedule notification
+alert about calendar changes
+
+NOTE: Informs affected parties of event updates.
+
+[example]
+Email sent when meeting room changes.
+
+==== schedule synchronization
+alignment of calendar information across systems
+
+NOTE: Maintains consistent event details across platforms.
+
+[example]
+Calendar entries matching between mobile device and computer.
+
+=== Schedule queries
+
+==== availability check
+search for free time periods
+
+NOTE: Identifies when scheduling is possible.
+
+[example]
+Finding when all participants can attend a two-hour meeting.
+
+==== schedule filter
+criteria for showing specific calendar entries
+
+NOTE: Selects events matching certain conditions.
+
+[example]
+Showing only client meetings scheduled next week.
+
+==== booking constraint
+scheduling requirement or limitation
+
+NOTE: Defines rules for when events can be scheduled.
+
+[example]
+Conference room available only during business hours.
+
+==== recurring pattern
+regular event repetition schedule
+
+NOTE: Defines how events repeat over time.
+
+[example]
+Team meeting occurring every Monday at 10 AM.
+
+==== schedule template
+standardized event format
+
+NOTE: Pre-defined settings for common event types.
+
+[example]
+Client meeting template with standard duration and required attendees.
+
+==== schedule exception
+deviation from regular pattern
+
+NOTE: Identifies when normal scheduling rules don't apply.
+
+[example]
+Skipping weekly meeting during holidays.
+
+==== schedule validation
+verification of booking requirements
+
+NOTE: Confirms all scheduling conditions are met.
+
+[example]
+Checking room capacity matches attendee count.
+
+=== Calendar relationships
+
+==== schedule dependency
+connection between related calendar events
+
+NOTE: Shows how events affect each other's timing.
+
+[example]
+Project milestone affecting subsequent task schedules.
+
+==== event sequence
+ordered series of calendar entries
+
+NOTE: Maintains specific order of scheduled items.
+
+[example]
+Conference sessions arranged in specific presentation order.
+
+==== schedule cascade
+chain reaction of calendar changes
+
+NOTE: Series of updates triggered by single schedule change.
+
+[example]
+Delayed flight affecting all subsequent meeting times.
+
+==== schedule overlap
+shared time between calendar entries
+
+NOTE: Indicates when events occur simultaneously.
+
+[example]
+Two team meetings scheduled during same time period.
+
+==== schedule merger
+combination of multiple calendars
+
+NOTE: Unified view of events from different sources.
+
+[example]
+Combined view of personal and work schedules.
+
+==== schedule split
+division of calendar entries
+
+NOTE: Separation of events into different calendars.
+
+[example]
+Dividing project schedule into team-specific calendars.
+
+==== schedule linking
+connection between separate calendars
+
+NOTE: Establishes relationships between different schedules.
+
+[example]
+Parent calendar linked to children's activity schedules.
+
+==== schedule hierarchy
+structured relationship between calendars
+
+NOTE: Defines calendar organization and inheritance.
+
+[example]
+Department calendar containing team and individual calendars.
+
+==== schedule inheritance
+transfer of calendar properties
+
+NOTE: Passes calendar settings from parent to child calendars.
+
+[example]
+Team calendar restrictions applying to member calendars.
+
+==== schedule isolation
+calendar entry independence
+
+NOTE: Prevents unwanted schedule interactions.
+
+[example]
+Personal appointments separated from work schedule changes.
+

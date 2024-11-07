@@ -1,0 +1,35 @@
+= Calendaring and scheduling -- Vocabulary
+:docnumber: 51000
+:copyright-year: 2024
+:language: en
+:doctype: standard
+:edition: 1
+:status: working-draft
+:revdate: 2024-11-07
+:published-date: 2024-11-07
+:script: Latn
+:technical-committee: CALENDAR
+:fullname: Ronald Tse
+:surname: Tse
+:givenname: Ronald
+:fullname_2: Michael Douglass
+:surname_2: Douglass
+:givenname_2: Michael
+:mn-document-class: cc
+:mn-output-extensions: xml,html,pdf,rxl
+:local-cache-only:
+:data-uri-image:
+
+include::sections/00-abstract.adoc[]
+
+include::sections/00-foreword.adoc[]
+
+include::sections/00-intro.adoc[]
+
+include::sections/01-scope.adoc[]
+
+include::sections/02-normrefs.adoc[]
+
+include::sections/03-terms.adoc[]
+
+include::sections/99-bibliography.adoc[]

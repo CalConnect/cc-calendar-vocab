@@ -1,0 +1,86 @@
+:repo-name: cc-calendar-vocab
+
+= CalConnect Standard: Calendaring and scheduling -- Vocabulary
+
+This work item belongs to CalConnect TC CALENDAR.
+
+image:https://github.com/CalConnect/cc-calendar-vocab/workflows/generate/badge.svg["Build Status", link="https://github.com/CalConnect/cc-calendar-vocab/actions?workflow=generate"]
+
+This document is available in its rendered forms here:
+
+* https://calconnect.github.io/cc-calendar-vocab/[CalConnect+IETF: Calendaring and scheduling -- iTip scheduling using participants (HTML)]
+
+== General
+
+This document describes the terms and definitions used in calendar and
+scheduling standards.
+
+It complements ISO 34000 by providing specialized terminology for calendaring
+operations, scheduling, consensus building, and temporal relationships.
+
+The document is published as the following:
+
+* CalConnect CC 56000
+* ISO ...
+* IETF ...
+
+
+== Fetching the document
+
+[source,sh]
+----
+git clone https://github.com/CalConnect/cc-calendar-vocab/
+----
+
+
+== Installing build tools
+
+See https://www.metanorma.com/author/topics/install/
+
+
+== Running via Docker or locally
+
+If you have installed the build tools locally, and wish to run the
+locally-installed compilation tools, there is nothing further to set.
+
+If you don't want to deal with local dependencies, use the docker:
+
+[source,sh]
+----
+docker run -v "$(pwd)":/metanorma -w /metanorma -it metanorma/mn metanorma site generate --agree-to-terms
+----
+
+
+== Building the document
+
+[source,sh]
+----
+metanorma site generate --agree-to-terms
+----
+
+The generated documents are accessible under `_site/`.
+
+
+== Iterating the document
+
+[source,sh]
+----
+metanorma site generate --agree-to-terms
+open _site/index.html
+----
+
+
+// == IETF: Checking against idnits
+
+// https://tools.ietf.org/tools/idnits/[idnits] is the RFC checking tool prior to
+// submissions.
+
+// [source,sh]
+// ----
+// idnits draft-calconnect-vobject-vformat.nits
+// ----
+
+
+== License
+
+Copyright its respective authors and CalConnect.
