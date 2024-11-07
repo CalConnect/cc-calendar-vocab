@@ -2,8 +2,9 @@
 metanorma:
   source:
     files:
-      - sources/cc-51000.adoc
-      # - sources/draft-douglass-itip-participants.adoc
+      - sources/cc-51000/document.adoc
+      - sources/ietf/document.adoc
+      - sources/iso-51000/document.adoc
 
   collection:
     name: Calendaring and scheduling -- Vocabulary

@@ -1,0 +1,39 @@
+= ISO 51000:2024
+:docnumber: 51000
+:edition: 1
+:copyright-year: 2024
+:language: en
+:title-intro-en: Calendaring and scheduling
+:title-intro-fr: Calendrier et planification
+:title-main-en: Vocabulary
+:title-main-fr: Vocabulaire
+:doctype: international-standard
+:docsubtype: vocabulary
+:docstage: 20
+:docsubstage: 20
+:technical-committee-type: TC
+:technical-committee-number: 154
+:technical-committee: Processes, data elements and documents in commerce, industry and administration
+:working-group: Representation of date and time
+:working-group-type: WG
+:working-group-number: 5
+:secretariat: SAC
+:imagesdir: images
+:local-cache-only:
+:data-uri-image:
+:mn-document-class: iso
+:mn-output-extensions: xml,html,doc,pdf
+
+// include::../sections-common/00-abstract.adoc[]
+
+include::sections/00-foreword.adoc[]
+
+include::../sections-common/00-intro.adoc[]
+
+include::../sections-common/01-scope.adoc[]
+
+include::../sections-common/02-normrefs.adoc[]
+
+include::../sections-common/03-terms.adoc[]
+
+include::../sections-common/99-bibliography.adoc[]
