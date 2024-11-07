@@ -8,7 +8,7 @@ image:https://github.com/CalConnect/cc-calendar-vocab/workflows/generate/badge.s
 
 This document is available in its rendered forms here:
 
-* https://calconnect.github.io/cc-calendar-vocab/[CalConnect+IETF: Calendaring and scheduling -- iTip scheduling using participants (HTML)]
+* https://calconnect.github.io/cc-calendar-vocab/[CalConnect: Calendaring and scheduling -- Vocabulary (HTML)]
 
 == General
 
