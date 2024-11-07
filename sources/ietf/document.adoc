@@ -1,0 +1,50 @@
+= Calendaring and scheduling -- Vocabulary
+:doctype: internet-draft
+:docnumber: draft-cc-calendar-vocab-00
+:abbrev: calendar-vocab
+:status: standard
+:ipr: trust200902
+:submissionType: individual
+:area: Internet
+:intended-series: full-standard
+:revdate: 2024-10-14
+:fullname: Ronald Henry Tse
+:lastname: Tse
+:forename_initials: R. H.
+:affiliation: Ribose
+:address: Suite 1109, 1 Pedder Street + \
+Central + \
+Hong Kong
+:contributor-uri: https://www.ribose.com
+:email: ronald.tse@ribose.com
+:fullname_2: Michael Douglass
+:lastname_2: Douglass
+:forename_initials_2: M.
+:affiliation_2: Bedework
+:address_2: 226 3rd Street + \
+Troy 12180 + \
+United States of America
+:contributor-uri_2: http://bedework.com
+:email_2: mdouglass@bedework.com
+:mn-document-class: ietf
+:mn-output-extensions: rfc,xml,txt,html,rxl
+:technical-committee: TC FREEBUSY
+
+include::../sections-common/00-abstract.adoc[]
+
+// CC Foreword is not used in IETF
+//include::../sections-common/00-foreword.adoc[]
+include::../sections-common/00-intro.adoc[]
+
+// CC: these sections are not used in IETF
+//include::../sections-common/01-scope.adoc[]
+//include::../sections-common/02-normrefs.adoc[]
+
+include::../sections-common/03-terms.adoc[]
+
+include::sections/50-acknowledgements.adoc[]
+
+// IETF uses special references
+include::sections/98-references.adoc[]
+
+include::sections/99-bibliography.adoc[]

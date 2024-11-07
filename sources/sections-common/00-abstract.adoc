@@ -1,0 +1,7 @@
+
+.Abstract
+
+This document provides terms and definitions used in calendar and scheduling
+standards. It complements ISO 34000 by providing specialized terminology for
+calendaring operations, scheduling, consensus building, and temporal
+relationships.

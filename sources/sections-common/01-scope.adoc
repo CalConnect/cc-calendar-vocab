@@ -1,0 +1,11 @@
+== Scope
+
+This document defines terms used in calendar and scheduling standards, focusing
+on concepts related to:
+
+* calendaring
+* scheduling
+* time management
+* time allocation
+* event management
+* time coordination
