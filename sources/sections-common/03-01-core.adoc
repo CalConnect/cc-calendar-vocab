@@ -23,3 +23,9 @@ process of coordinating {{event,events}} among {{participant,participants}} and 
 
 ==== schedule
 organized collection of {{event,events}} with assigned times
+
+==== calendar user
+person who accesses or modifies calendar information
+
+[.source]
+<<cc_glossary>>

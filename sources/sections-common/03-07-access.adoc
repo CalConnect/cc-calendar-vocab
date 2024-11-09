@@ -46,3 +46,13 @@ collection of {{access permission,access permissions}} granted to a {{participan
 [.source]
 <<cc_glossary>>
 
+==== access control list
+alt:[ACL]
+
+list of access control elements defining permissions for calendar entities
+
+[.source]
+<<cc_glossary>>
+
+[NOTE]
+Used in WebDAV context for defining access control.

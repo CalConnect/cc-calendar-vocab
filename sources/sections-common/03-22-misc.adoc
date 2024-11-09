@@ -1,7 +1,7 @@
 [heading=terms and definitions]
 == Terms related to specific technologies
 
-=== Calendar data formats
+=== Data representation formats
 
 ==== iCalendar
 standard format for representing calendar data
@@ -15,23 +15,52 @@ legacy format for calendar data superseded by {{iCalendar}}
 [.source]
 <<cc_glossary>>
 
-==== vCard
-standard format for representing contact information
-
-[.source]
-<<cc_glossary>>
-
 ==== xCal
 XML representation of {{iCalendar}} data
 
 [.source]
 <<cc_glossary>>
 
-==== xCard
-XML representation of {{vCard}} data
+
+=== Calendar access protocols
+
+==== CalDAV
+protocol extension to WebDAV for calendar access and management
 
 [.source]
 <<cc_glossary>>
+
+==== CardDAV
+protocol extension to WebDAV for contact information management
+
+[.source]
+<<cc_glossary>>
+
+==== iMIP
+protocol for exchanging iTIP messages via email
+
+[.source]
+<<cc_glossary>>
+
+==== iTIP
+protocol for scheduling interoperability between calendar systems
+
+[.source]
+<<cc_glossary>>
+
+==== iSchedule
+protocol for exchanging iTIP messages via HTTP
+
+[.source]
+<<cc_glossary>>
+
+==== WebDAV
+protocol extension to HTTP for collaborative document management
+
+[.source]
+<<cc_glossary>>
+Calendar components and properties:
+
 
 === Calendar object components
 
@@ -67,6 +96,18 @@ calendar component representing a reminder or alert
 
 ==== VPOLL
 calendar component for conducting {{consensus scheduling}}
+
+[.source]
+<<cc_glossary>>
+
+==== VTIMEZONE
+calendar component representing timezone information
+
+[.source]
+<<cc_glossary>>
+
+==== VAVAILABILITY
+calendar component describing periods of user availability
 
 [.source]
 <<cc_glossary>>

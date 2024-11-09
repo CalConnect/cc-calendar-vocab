@@ -33,3 +33,9 @@ scheduled time before an event for setup or preparation
 
 ==== transition duration
 scheduled time after an event for wrap-up or travel
+
+==== journal entry
+descriptive notes associated with a calendar date
+
+[.source]
+<<cc_glossary>>
