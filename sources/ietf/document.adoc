@@ -34,10 +34,12 @@ include::../sections-common/00-abstract.adoc[]
 
 // CC Foreword is not used in IETF
 //include::../sections-common/00-foreword.adoc[]
+
 include::../sections-common/00-intro.adoc[]
 
+include::../sections-common/01-scope.adoc[]
+
 // CC: these sections are not used in IETF
-//include::../sections-common/01-scope.adoc[]
 //include::../sections-common/02-normrefs.adoc[]
 
 include::../sections-common/03-terms.adoc[]
