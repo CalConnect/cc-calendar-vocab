@@ -23,4 +23,4 @@ indication of expected reply from a {{participant}}
 <<cc_glossary>>
 
 ==== response status
-current state of a {{participantC}} reply to an invitation
+current state of a {{participant,participant's}} reply to an invitation
