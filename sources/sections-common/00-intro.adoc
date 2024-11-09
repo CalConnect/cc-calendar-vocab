@@ -3,10 +3,10 @@
 This document provides terms and definitions used in calendar and scheduling
 standards.
 
-This document complements ISO 34000 by providing specialized terminology for
+This document complements <<iso-34000>> by providing specialized terminology for
 calendaring operations, scheduling, consensus building, and temporal
 relationships.
 
-This document succeeds and supersedes CalConnect Document CD 1102 "Calendaring
-and Scheduling Glossary of Terms V2.2" published in May 2013, as well as the
-CalConnect DevGuide "Calendaring and Scheduling Glossary of Terms".
+This document is created to succeed and supersede corresponding terms in
+<<cc_glossary>> and <<cc_dg_glossary>>, but does not replace their terms that
+are not defined in this document.
