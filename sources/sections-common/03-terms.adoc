@@ -2,8 +2,6 @@
 
 include::03-01-core.adoc[]
 
-include::03-01-core.adoc[]
-
 include::03-02-participants.adoc[]
 
 include::03-03-event.adoc[]
