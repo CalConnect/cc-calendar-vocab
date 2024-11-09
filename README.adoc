@@ -24,6 +24,12 @@ The document is published as the following:
 * ISO 51000
 * IETF draft-cc-calendar-vocab
 
+This document supersedes:
+
+* https://www.calconnect.org/resources/glossary[CalConnect CD 1102] "Calendaring and Scheduling Glossary of Terms V2.2" published in May 2013.
+
+* https://devguide.calconnect.org/Appendix/Glossary/[CalConnect DevGuide Glossary of Terms]
+
 
 == Fetching the document
 
