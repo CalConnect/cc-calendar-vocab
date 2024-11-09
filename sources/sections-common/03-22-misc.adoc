@@ -1,0 +1,177 @@
+== Technology-specific terms
+
+=== Calendar data formats
+
+==== iCalendar
+standard format for representing calendar data
+
+[.source]
+<<cc_glossary>>
+
+==== vCalendar
+legacy format for calendar data superseded by {{iCalendar}}
+
+[.source]
+<<cc_glossary>>
+
+==== vCard
+standard format for representing contact information
+
+[.source]
+<<cc_glossary>>
+
+==== xCal
+XML representation of {{iCalendar}} data
+
+[.source]
+<<cc_glossary>>
+
+==== xCard
+XML representation of {{vCard}} data
+
+[.source]
+<<cc_glossary>>
+
+=== Calendar object components
+
+==== VEVENT
+calendar component representing a scheduled {{event}}
+
+[.source]
+<<cc_glossary>>
+
+==== VTODO
+calendar component representing an assigned task
+
+[.source]
+<<cc_glossary>>
+
+==== VJOURNAL
+calendar component representing notes associated with a date
+
+[.source]
+<<cc_glossary>>
+
+==== VFREEBUSY
+calendar component representing {{participant}} availability information
+
+[.source]
+<<cc_glossary>>
+
+==== VALARM
+calendar component representing a reminder or alert
+
+[.source]
+<<cc_glossary>>
+
+==== VPOLL
+calendar component for conducting {{consensus scheduling}}
+
+[.source]
+<<cc_glossary>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=== Calendar protocols
+
+==== calendar access protocol
+method for accessing and managing calendar data
+
+[.source]
+<<cc_glossary>>
+
+==== scheduling protocol
+method for exchanging scheduling messages
+
+[.source]
+<<cc_glossary>>
+
+==== timezone service
+protocol for distributing timezone data
+
+[NOTE]
+Enables efficient distribution of timezone updates
+
+[.source]
+<<cc_glossary>>
+
+
+=== Calendar properties
+
+==== property
+attribute of a calendar object containing specific information
+
+[.source]
+<<cc_glossary>>
+
+==== calscale
+property identifying the {{calendar system}} used
+
+[.source]
+<<cc_glossary>>
+
+==== DTSTART
+property specifying the inclusive start of an {{event}}
+
+[.source]
+<<cc_glossary>>
+
+==== DTEND
+property specifying the non-inclusive end of an {{event}}
+
+[.source]
+<<cc_glossary>>
+
+=== Recurrence concepts
+
+==== RRULE
+property defining repeating patterns for {{event,events}}
+
+[.source]
+<<cc_glossary>>
+
+==== RSCALE
+parameter indicating which {{calendar system}} to use for recurring {{event,events}}
+
+[.source]
+<<cc_glossary>>
+
+==== RECURRENCE-ID
+property identifying specific instances of recurring {{event,events}}
+
+[.source]
+<<cc_glossary>>
+
+
+=== Calendar tasks
+
+==== task
+work item assigned to a {{participant}}
+
+[.source]
+<<cc_glossary>>
+
+==== task status
+current state of assigned work
+
+==== task priority
+relative importance of assigned work
+
+==== task delegation
+transfer of work assignment to another {{participant}}
