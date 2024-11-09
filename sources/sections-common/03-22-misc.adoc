@@ -1,4 +1,5 @@
-== Technology-specific terms
+[heading=terms and definitions]
+== Terms related to specific technologies
 
 === Calendar data formats
 
