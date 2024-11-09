@@ -1,0 +1,29 @@
+
+=== Calendar types
+
+[NOTE]
+These terms describe different types of calendars based on their usage and accessibility.
+
+==== personal calendar
+calendar containing {{event,events}} accessible primarily to its owner
+
+[.source]
+<<cc_glossary>>
+
+==== shared calendar
+calendar accessible to multiple {{participant,participants}} with defined {{access permission,permissions}}
+
+[.source]
+<<cc_glossary>>
+
+==== public calendar
+calendar intentionally made available to undefined users or groups
+
+[.source]
+<<cc_glossary>>
+
+==== subscribed calendar
+calendar that receives updates from a published source
+
+[.source]
+<<cc_glossary>>

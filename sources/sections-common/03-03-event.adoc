@@ -1,0 +1,50 @@
+
+=== Event concepts
+
+[NOTE]
+These terms define the basic elements of calendar entries.
+
+==== event
+time-bound activity or occurrence in a {{calendar system}}
+
+[.source]
+<<cc_glossary>>
+
+==== location
+place where an {{event}} occurs
+
+==== event duration
+scheduled duration of an {{event}}
+
+==== event type
+classification of calendar entry
+
+==== public event
+{{event}} meant to be distributed to a defined or undefined group of {{participant,participants}}
+
+[.source]
+<<cc_glossary>>
+
+==== recurrence
+repeating pattern of an {{event}}
+
+==== recurring event
+{{event}} that repeats according to a specified pattern
+
+[.source]
+<<cc_glossary>>
+
+==== event instance
+single occurrence of a {{recurring event}}
+
+[.source]
+<<cc_glossary>>
+
+==== event sequence
+ordered series of calendar entries
+
+==== event spacing
+time between scheduled events
+
+[NOTE]
+Defines intentional gaps between calendar entries.

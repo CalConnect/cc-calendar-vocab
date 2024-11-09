@@ -1,0 +1,27 @@
+
+=== Calendar relationships
+
+[NOTE]
+These terms describe how calendars and events relate to each other.
+
+==== schedule dependency
+connection between related calendar events
+
+[NOTE]
+Shows how events affect each other's timing
+
+==== schedule cascade
+chain reaction of calendar changes
+
+[NOTE]
+Series of updates triggered by single schedule change
+
+==== schedule overlap
+shared time between calendar entries
+
+[NOTE]
+Indicates when events occur simultaneously
+
+==== schedule conflict
+overlap between two or more events involving competing demands
+

@@ -1,366 +1,46 @@
 == Terms and definitions
 
-=== Core concepts
+include::03-01-core.adoc[]
 
-==== event
+include::03-01-core.adoc[]
 
-time-bound activity or occurrence in a calendar system
+include::03-02-participants.adoc[]
 
-==== calendaring
+include::03-03-event.adoc[]
 
-systematic management of {{event,events}}
+include::03-04-time-management.adoc[]
 
-==== scheduling
+include::03-05-cal-organization.adoc[]
 
-process of assigning specific times to {{event,events}} while managing
-constraints and resources
+include::03-06-cal-types.adoc[]
 
-==== schedule
+include::03-07-access.adoc[]
 
-organized collection of events with assigned times
+include::03-08-event-states.adoc[]
 
-==== organizer
+include::03-09-resource.adoc[]
 
-entity responsible for creating and managing an {{event}}
+include::03-10-event-ops.adoc[]
 
-==== attendee
+include::03-11-schedule-ops.adoc[]
 
-entity participating in an event
+include::03-12-schedule-resp.adoc[]
 
-==== location
+include::03-13-calendar-rel.adoc[]
 
-place where an event occurs
+include::03-14-cal-sync.adoc[]
 
+include::03-15-cal-share.adoc[]
 
-==== recurrence
+include::03-16-cal-automation.adoc[]
 
-repeating pattern of an event
+include::03-17-info-management.adoc[]
 
+include::03-18-cal-notify.adoc[]
 
-=== Time management concepts
+include::03-19-cal-queries.adoc[]
 
-==== time block management
+include::03-20-cal-attachments.adoc[]
 
-practice of organizing and managing time-based events and tasks using a calendar system
-
-==== event timeline
-
-designated times of an organized sequence of events
-
-==== time coordination
-
-process of arranging events involving multiple participants
-
-
-=== Time allocation concepts
-
-==== free time window
-
-time period available for scheduling new events
-
-NOTE: Represents when participants or resources can be scheduled.
-
-==== blocked time
-
-time period unavailable for scheduling new events
-
-NOTE: Indicates periods already committed or intentionally reserved.
-
-==== tentative time block
-
-time period provisionally reserved pending confirmation
-
-NOTE: Indicates potential availability that requires final commitment.
-
-==== schedule confirmation
-
-definite commitment to an event time
-
-NOTE: Represents final agreement to attend or participate.
-
-==== event cancellation
-
-withdrawal of a scheduled event
-
-NOTE: Includes notification to all participants and resource releases.
-
-==== scheduling delegation
-
-transfer of calendar management rights to another person
-
-NOTE: Allows others to manage events on behalf of someone.
-
-[example]
-An assistant gaining rights to manage their manager's calendar.
-
-=== Event patterns
-
-==== event duration
-
-scheduled duration of an event
-
-
-==== event spacing
-
-time between scheduled events
-
-NOTE: Defines intentional gaps between calendar entries.
-
-
-==== schedule conflict
-
-overlap between two or more events involving competing demands
-
-==== buffer time
-
-planned gap between events
-
-==== preparation window
-
-scheduled time before an event for setup or preparation
-
-==== transition duration
-
-scheduled time after an event for wrap-up or travel
-
-
-=== Information tracking
-
-==== schedule update
-
-modification to an existing calendar entry
-
-==== schedule version
-
-numbered iteration of a calendar entry
-
-
-==== booking attempt
-
-single iteration in finding suitable event time
-
-
-==== calendar snapshot
-
-point-in-time view of scheduled events
-
-NOTE: Captures all calendar entries at a specific moment.
-
-
-==== event status
-
-current state of a calendar entry
-
-NOTE: Indicates whether an event is confirmed, tentative, or cancelled.
-
-
-==== event priority
-
-scheduling importance level
-
-
-==== event type
-
-classification of calendar entry
-
-
-==== visibility level
-
-degree of calendar entry detail shown to others
-
-
-=== Access management
-
-==== viewing permission
-
-right to see calendar information
-
-NOTE: Determines who can view event details.
-
-
-==== scheduling permission
-right to create or modify calendar entries
-
-NOTE: Controls who can manage events on a calendar.
-
-==== administrative permission
-
-highest level of calendar access rights
-
-
-
-==== calendar administration
-
-activity of managing calendar settings
-
-
-==== schedule restriction
-
-limit on calendar operations
-
-NOTE: Prevents unauthorized calendar actions.
-
-
-==== calendar access scope
-
-range of viewable or manageable calendars
-
-NOTE: Defines which calendars a user can interact with.
-
-
-=== Distribution methods
-
-==== schedule publication
-
-release of calendar information to designated audience
-
-NOTE: Makes events visible to specified users.
-
-
-==== draft schedule
-preliminary calendar information pending finalization
-
-NOTE: Temporary event details subject to change.
-
-
-==== schedule archive
-
-historical calendar records
-
-NOTE: Preserved past calendar information.
-
-
-==== retention period
-
-required calendar record keeping timeframe
-
-NOTE: Duration calendar information must be preserved.
-
-==== calendar subscription
-
-automated calendar information delivery
-
-NOTE: Continuous access to updated calendar information.
-
-
-==== schedule notification
-
-alert about calendar changes
-
-NOTE: Informs affected parties of event updates.
-
-
-==== schedule synchronization
-
-alignment of calendar information across calendar systems
-
-NOTE: Maintains consistent event details across platforms.
-
-
-=== Schedule queries
-
-==== availability check
-
-search for free time periods
-
-NOTE: Identifies when scheduling is possible.
-
-
-==== schedule filter
-criteria for showing specific calendar entries
-
-NOTE: Selects events matching certain conditions.
-
-
-==== booking constraint
-scheduling requirement or limitation
-
-NOTE: Defines rules for when events can be scheduled.
-
-
-==== recurring pattern
-regular event repetition schedule
-
-NOTE: Defines how events repeat over time.
-
-
-==== schedule template
-standardized event format
-
-NOTE: Pre-defined settings for common event types.
-
-
-==== schedule exception
-deviation from regular pattern
-
-NOTE: Identifies when normal scheduling rules don't apply.
-
-
-==== schedule validation
-verification of booking requirements
-
-NOTE: Confirms all scheduling conditions are met.
-
-
-=== Calendar relationships
-
-==== schedule dependency
-connection between related calendar events
-
-NOTE: Shows how events affect each other's timing.
-
-
-==== event sequence
-ordered series of calendar entries
-
-NOTE: Maintains specific order of scheduled items.
-
-
-==== schedule cascade
-chain reaction of calendar changes
-
-NOTE: Series of updates triggered by single schedule change.
-
-
-==== schedule overlap
-shared time between calendar entries
-
-NOTE: Indicates when events occur simultaneously.
-
-
-==== schedule merger
-combination of multiple calendars
-
-NOTE: Unified view of events from different sources.
-
-
-==== schedule split
-division of calendar entries
-
-NOTE: Separation of events into different calendars.
-
-
-==== schedule linking
-connection between separate calendars
-
-NOTE: Establishes relationships between different schedules.
-
-
-==== schedule hierarchy
-structured relationship between calendars
-
-NOTE: Defines calendar organization and inheritance.
-
-
-==== schedule inheritance
-transfer of calendar properties
-
-NOTE: Passes calendar settings from parent to child calendars.
-
-
-==== schedule isolation
-calendar entry independence
-
-NOTE: Prevents unwanted schedule interactions.
-
+include::03-21-accessibility.adoc[]
 

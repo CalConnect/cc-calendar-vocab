@@ -1,0 +1,23 @@
+
+=== Calendar synchronization
+
+[NOTE]
+These terms describe how calendar information is kept consistent across systems.
+
+==== schedule synchronization
+alignment of calendar information across {{calendar system,calendar systems}}
+
+[.source]
+<<cc_glossary>>
+
+==== calendar subscription
+automated receipt of calendar updates
+
+[.source]
+<<cc_glossary>>
+
+==== sync frequency
+rate at which synchronization occurs between {{calendar store,calendar stores}}
+
+==== sync validation
+verification of synchronization accuracy between calendar systems

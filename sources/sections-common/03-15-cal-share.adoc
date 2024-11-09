@@ -1,0 +1,20 @@
+
+=== Calendar sharing
+
+[NOTE]
+These terms describe how calendar information is distributed to others.
+
+==== publish
+make calendar information available to specified {{participant,participants}}
+
+[.source]
+<<cc_glossary>>
+
+==== share scope
+extent of calendar information shared with others
+
+==== sharing permission
+specific rights granted for shared calendar access
+
+==== sharing method
+mechanism for making calendar information available to others

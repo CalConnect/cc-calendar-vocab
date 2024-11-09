@@ -1,0 +1,43 @@
+
+=== Calendar attachments
+
+[NOTE]
+These terms describe documents and files associated with calendar entries.
+
+==== attachment
+document object associated with a calendar component
+
+[.source]
+<<cc_glossary>>
+
+==== managed attachment
+{{attachment}} stored and managed on a {{calendar service}}
+
+[.source]
+<<cc_glossary>>
+
+==== attachment type
+classification of content associated with calendar objects
+
+==== attachment scope
+visibility and accessibility settings for {{attachment,attachments}}
+
+=== Schedule templates
+
+[NOTE]
+These terms describe standardized formats for calendar entries.
+
+==== schedule template
+standardized format for creating {{event,events}}
+
+[.source]
+<<cc_glossary>>
+
+==== template scope
+range of calendar entries covered by a template
+
+==== template inheritance
+transfer of template properties to new calendar entries
+
+==== template restriction
+limitation on template usage

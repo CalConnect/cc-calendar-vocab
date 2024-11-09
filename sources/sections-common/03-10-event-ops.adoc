@@ -1,0 +1,28 @@
+
+
+=== Event operations
+
+[NOTE]
+These terms describe actions that can be performed on events.
+
+==== event publication
+process of distributing {{public event}} information
+
+[.source]
+<<cc_glossary>>
+
+==== schedule confirmation
+definitive commitment to an {{event}} time
+
+[.source]
+<<cc_glossary>>
+
+==== event cancellation
+withdrawal of a scheduled {{event}}
+
+[.source]
+<<cc_glossary>>
+
+==== schedule update
+modification to an existing {{event}}
+

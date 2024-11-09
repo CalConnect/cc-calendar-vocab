@@ -2,4 +2,6 @@
 [bibliography]
 == Bibliography
 
+* [[[cc_glossary,CD 1102]]], CalConnect. _Calendaring and Scheduling Glossary of Terms V2.2_. 2013.
+
 * [[[iso-34000,ISO 34000]]]

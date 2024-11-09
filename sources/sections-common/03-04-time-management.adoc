@@ -1,0 +1,35 @@
+
+=== Time management
+
+[NOTE]
+These terms describe how time is managed and allocated.
+
+==== free time
+period when a {{participant}} or {{resource}} is available for scheduling
+
+[.source]
+<<cc_glossary>>
+
+==== busy time
+period when a {{participant}} or {{resource}} is unavailable for scheduling
+
+[.source]
+<<cc_glossary>>
+
+==== tentative time
+period when a {{participant}} or {{resource}} is potentially available pending confirmation
+
+[.source]
+<<cc_glossary>>
+
+==== buffer time
+planned gap between {{event,events}}
+
+[.source]
+<<cc_glossary>>
+
+==== preparation window
+scheduled time before an event for setup or preparation
+
+==== transition duration
+scheduled time after an event for wrap-up or travel

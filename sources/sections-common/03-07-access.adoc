@@ -1,0 +1,48 @@
+
+=== Access control
+
+[NOTE]
+These terms describe how access to calendar information is managed.
+
+==== access control
+system enabling authorities to manage access to calendar entities
+
+[.source]
+<<cc_glossary>>
+
+==== access permission
+specific right granted for calendar operations
+
+[.source]
+<<cc_glossary>>
+
+==== access scope
+range of calendar operations permitted to a {{participant}}
+
+[.source]
+<<cc_glossary>>
+
+==== access rights
+collection of {{access permission,access permissions}} granted to a {{participant}}
+
+[.source]
+<<cc_glossary>>
+
+==== viewing permission
+{{access permission}} to see calendar information
+
+[.source]
+<<cc_glossary>>
+
+==== scheduling permission
+{{access permission}} to create or modify calendar entries
+
+[.source]
+<<cc_glossary>>
+
+==== administrative permission
+{{access permission}} with full system control rights
+
+[.source]
+<<cc_glossary>>
+

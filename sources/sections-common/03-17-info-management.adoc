@@ -1,0 +1,29 @@
+
+=== Information management
+
+[NOTE]
+These terms describe how calendar information is tracked and maintained.
+
+==== schedule version
+numbered iteration of a calendar entry
+
+[.source]
+<<cc_glossary>>
+
+==== calendar snapshot
+point-in-time view of scheduled {{event,events}}
+
+[.source]
+<<cc_glossary>>
+
+==== retention period
+timeframe for maintaining calendar records
+
+[.source]
+<<cc_glossary>>
+
+==== schedule archive
+historical calendar records preservation
+
+[.source]
+<<cc_glossary>>

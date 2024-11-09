@@ -1,0 +1,12 @@
+
+=== Calendar accessibility
+
+[NOTE]
+These terms describe how calendar systems accommodate different user needs.
+
+==== accessibility
+information about {{resource}} access for physically disabled {{participant,participants}}
+
+[.source]
+<<cc_glossary>>
+

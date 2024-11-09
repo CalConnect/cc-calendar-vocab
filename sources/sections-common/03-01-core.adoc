@@ -1,0 +1,25 @@
+=== Core concepts
+
+[NOTE]
+These terms define the fundamental concepts of calendaring and scheduling.
+
+==== calendaring
+systematic management of {{event,events}} and their associated information
+
+[.source]
+<<cc_glossary>>
+
+==== calendar system
+method for organizing and tracking {{event,events}} using defined rules and structures
+
+[.source]
+<<cc_glossary>>
+
+==== scheduling
+process of coordinating {{event,events}} among {{participant,participants}} and {{resource,resources}}
+
+[.source]
+<<cc_glossary>>
+
+==== schedule
+organized collection of {{event,events}} with assigned times

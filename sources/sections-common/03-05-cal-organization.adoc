@@ -1,0 +1,29 @@
+
+=== Calendar organization
+
+[NOTE]
+These terms describe how calendars are structured and managed.
+
+==== calendar collection
+grouping of calendar objects sharing common {{access control}} and properties
+
+[.source]
+<<cc_glossary>>
+
+==== calendar store
+repository containing multiple {{calendar collection,calendar collections}}
+
+[.source]
+<<cc_glossary>>
+
+==== calendar service
+application providing access to {{calendar store,calendar stores}}
+
+[.source]
+<<cc_glossary>>
+
+==== calendar user agent
+software that interacts with {{calendar service,calendar services}} on behalf of a {{participant}}
+
+[.source]
+<<cc_glossary>>

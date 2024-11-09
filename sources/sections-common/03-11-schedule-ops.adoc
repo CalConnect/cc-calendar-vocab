@@ -1,0 +1,32 @@
+
+=== Scheduling operations
+
+[NOTE]
+These terms describe the process of coordinating events among participants.
+
+==== consensus scheduling
+process whereby multiple {{participant,participants}} reach agreement on {{event}} timing through collaborative evaluation
+
+[.source]
+<<cc_glossary>>
+
+==== autoschedule
+automatic acceptance of {{event}} invitations without human intervention
+
+[.source]
+<<cc_glossary>>
+
+==== scheduling delegation
+transfer of {{scheduling permission,scheduling permissions}} to another {{participant}}
+
+[.source]
+<<cc_glossary>>
+
+==== scheduling restriction
+limitation on when or how scheduling can occur
+
+[.source]
+<<cc_glossary>>
+
+==== scheduling requirement
+condition that must be met for successful scheduling

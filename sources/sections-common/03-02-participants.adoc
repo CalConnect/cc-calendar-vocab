@@ -1,0 +1,40 @@
+=== Participant concepts
+
+[NOTE]
+These terms describe the entities involved in calendar operations.
+
+==== participant
+entity involved in calendar operations
+
+[NOTE]
+Can be a person, resource, or system
+
+==== organizer
+{{participant}} responsible for creating and managing {{event,events}}
+
+[.source]
+<<cc_glossary>>
+
+==== attendee
+{{participant}} invited to or participating in an {{event}}
+
+[.source]
+<<cc_glossary>>
+
+==== delegate
+{{participant}} authorized to act on behalf of another {{participant}}
+
+[.source]
+<<cc_glossary>>
+
+==== delegator
+{{participant}} who transfers participation rights to a {{delegate}}
+
+[.source]
+<<cc_glossary>>
+
+==== delegatee
+{{participant}} who receives participation rights from a {{delegator}}
+
+[.source]
+<<cc_glossary>>

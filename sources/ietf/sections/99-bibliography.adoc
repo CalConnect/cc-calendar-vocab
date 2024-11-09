@@ -3,3 +3,4 @@
 == Informative References
 
 * [[[iso-34000,ISO 34000]]]
+* [[[cc_glossary,CD 1102]]], _Calendaring and Scheduling Glossary of Terms_

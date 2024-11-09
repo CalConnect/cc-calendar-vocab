@@ -1,0 +1,59 @@
+
+=== Resource management
+
+[NOTE]
+These terms describe how schedulable resources are managed.
+
+==== resource
+schedulable entity that can be reserved for an {{event}}
+
+[NOTE]
+Can be physical (room, equipment) or virtual (conference bridge)
+
+[.source]
+<<cc_glossary>>
+
+==== resource type
+classification of {{resource}}
+
+[NOTE]
+Common types include location, equipment, and role
+
+[.source]
+<<cc_glossary>>
+
+==== resource capacity
+maximum simultaneous usage limit of a {{resource}}
+
+[.source]
+<<cc_glossary>>
+
+==== resource availability
+state of a {{resource}} being free for scheduling
+
+[.source]
+<<cc_glossary>>
+
+==== admittance info
+information required to gain access to a {{resource}}
+
+[.source]
+<<cc_glossary>>
+
+==== inventory info
+information about additional {{resource,resources}} available as part of a {{resource}}
+
+[.source]
+<<cc_glossary>>
+
+==== multiple bookings
+number of simultaneous reservations allowed for a {{resource}}
+
+[.source]
+<<cc_glossary>>
+
+==== booking window
+time period during which a {{resource}} can be reserved
+
+[.source]
+<<cc_glossary>>

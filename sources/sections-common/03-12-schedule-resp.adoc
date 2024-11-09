@@ -1,0 +1,26 @@
+
+=== Scheduling responses
+
+[NOTE]
+These terms describe how participants respond to scheduling requests.
+
+==== counter
+response proposing changes to an {{event}}
+
+[.source]
+<<cc_glossary>>
+
+==== request
+invitation or query for calendar operations
+
+[.source]
+<<cc_glossary>>
+
+==== RSVP
+indication of expected reply from a {{participant}}
+
+[.source]
+<<cc_glossary>>
+
+==== response status
+current state of a {{participantC}} reply to an invitation

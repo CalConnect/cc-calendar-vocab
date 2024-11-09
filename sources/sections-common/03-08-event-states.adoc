@@ -1,0 +1,25 @@
+=== Event states and properties
+
+[NOTE]
+These terms describe the various states and attributes of events.
+
+==== event status
+current state of an {{event}}
+
+[NOTE]
+Common states include confirmed, tentative, and cancelled
+
+==== event priority
+relative importance assigned to an {{event}}
+
+[.source]
+<<cc_glossary>>
+
+==== transparency
+property indicating whether an {{event}} affects {{free time}} calculations
+
+[.source]
+<<cc_glossary>>
+
+==== visibility level
+degree of calendar detail shown to {{participant,participants}}

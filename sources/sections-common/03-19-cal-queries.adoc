@@ -1,0 +1,29 @@
+
+=== Calendar queries
+
+[NOTE]
+These terms describe how calendar information can be searched and filtered.
+
+==== availability check
+search for {{free time}} periods
+
+[.source]
+<<cc_glossary>>
+
+==== schedule filter
+criteria for selecting specific {{event,events}}
+
+[.source]
+<<cc_glossary>>
+
+==== booking constraint
+requirement or limitation on scheduling {{event,events}}
+
+[.source]
+<<cc_glossary>>
+
+==== recurring pattern
+specification of how {{event,events}} repeat over time
+
+[.source]
+<<cc_glossary>>

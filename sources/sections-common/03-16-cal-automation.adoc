@@ -1,0 +1,25 @@
+=== Calendar automation
+
+[NOTE]
+These terms describe automated calendar processes.
+
+==== autoconfiguration
+process of automatically setting up calendar client settings
+
+[.source]
+<<cc_glossary>>
+
+==== autodiscovery
+automatic detection of available calendar services and their configurations
+
+[.source]
+<<cc_glossary>>
+
+==== auto-scheduling
+automatic processing of scheduling requests based on defined rules
+
+[.source]
+<<cc_glossary>>
+
+==== auto-response
+automated reply to calendar requests based on predefined criteria

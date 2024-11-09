@@ -1,0 +1,26 @@
+
+=== Calendar notifications
+
+[NOTE]
+These terms describe how calendar changes are communicated.
+
+==== schedule notification
+alert about calendar changes
+
+[.source]
+<<cc_glossary>>
+
+==== alarm
+reminder mechanism for {{event,events}}
+
+[NOTE]
+Can take various forms such as email, sound, or visual alert
+
+[.source]
+<<cc_glossary>>
+
+==== notification scope
+range of {{participant,participants}} receiving calendar alerts
+
+==== notification method
+mechanism for delivering calendar alerts
